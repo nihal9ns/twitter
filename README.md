@@ -2,7 +2,11 @@
 
 This is a Twitter Clone, frontend only with static contents. This app was built as a deliverable for Hasura Product Development Fellowship (HPDF).
 
+### `Home Page`
+
 ![](home.png)
+
+### `Aadhar Search Page`
 
 ![](aadhar.png)
 
